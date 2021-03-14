@@ -5,13 +5,24 @@ h1 {
     font-size: 50px;
 }
 
-
-
+img:hover {
+    background-color: deeppink;
+}
 /* class selectors */
 
-.beacon {
-    background-color: green;
+    .beacon {
+        background-color: green;
+    }
+    .broccoli {
+        background-color: red;
+    }
+.circular {
+    border-radius: 100%;
 }
-.broccoli {
-    background-color: red;
+
+
+/* id selectors */
+
+#heading {
+    color: darkseagreen;
 }

@@ -1,0 +1,24 @@
+p {
+    background-color: rgb(241, 162, 13)
+    width: 100px ;
+    display: inline-block ;
+    
+}
+
+.pro {
+    text-decoration: underline;
+}
+span {
+    background-color: blue;
+    display: block;
+    
+}
+
+.mp {
+
+    display: none
+}
+
+.np {
+    visibility: hidden;
+}
